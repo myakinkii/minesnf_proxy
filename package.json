@@ -1,0 +1,11 @@
+{
+  "name": "minesnf_proxy",
+  "version": "1.0.0",
+  "description": "minesnf main page and node proxy",
+  "main": "index.js",
+  "author": "Alex Myakinkii",
+  "dependencies": {
+    "http-proxy": "^1.17.0",
+    "showdown": "^1.9.0"
+  }
+}
