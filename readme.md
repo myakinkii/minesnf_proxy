@@ -47,7 +47,7 @@ You can setup your own server and connect your mobile app to it. Here's a [wiki 
 ### how can I find somebody to play with or just give a feedback?
 join our [discord server](https://discord.gg/uWnVeZE)
 
-###list of available servers
+### list of available servers
 * [ru1.minesnf.com](http://ru1.minesnf.com/ui5) (MSK) -> global
 * some other location soon
 
