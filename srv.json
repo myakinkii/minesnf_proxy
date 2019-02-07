@@ -1,4 +1,7 @@
 [
-{"url":"global.minesnf.com","name":"global (RU)"},
-{"url":"ru1.minesnf.com","name":"ru1 (MSK)"}
+{"url":"global.minesnf.com","name":"Global (Europe)"},
+{"url":"blr1.minesnf.com","name":"Asia (Bangalore)"},
+{"url":"eu1.minesnf.com","name":"Europe (Amsterdam)"},
+{"url":"tor1.minesnf.com","name":"North America (Toronto)"},
+{"url":"ru1.minesnf.com","name":"Russia (Moscow)"}
 ]

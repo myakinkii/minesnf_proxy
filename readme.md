@@ -38,18 +38,19 @@ And after that maybe there will be some 'not so ugly' client created for that
 
 ## cool, how do I play this stuff?
 1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com/ui5) link or picking the server link from the list of servers
-2. You can wait until the Google play and Appstore apps are released (planned by the end of Jan'19)
-3. or use the [ios testflight builds](https://testflight.apple.com/join/wORyXZqw)
+2. You can wait until the Google play and Appstore apps are released 
+3. Or access open beta versions via the [iOS TestFlight](https://testflight.apple.com/join/wORyXZqw) or [Google Play Beta](https://play.google.com/apps/testing/com.minesnf.openui5)
 
 ### and what if I still want to play multiplayer games with low latency and some friends? ###
-You can setup your own server and connect your mobile app to it. Here's a [wiki article](https://github.com/myakinkii/minesNF/wiki/Run-backend-locally) that explains how to run the backend.
+You can setup your own server and connect your mobile app to it. Here's a [wiki article](https://github.com/myakinkii/minesNF/wiki/Run-backend-locally) that explains how to run the backend locally or to [setup clean box](https://github.com/myakinkii/minesNF/wiki/Run-own-backend) (some old ubuntu in this example).
 
 ### how can I find somebody to play with or just give a feedback?
 join our [discord server](https://discord.gg/uWnVeZE)
 
 ### list of available servers
-* [ru1.minesnf.com](http://ru1.minesnf.com/ui5) (MSK) -> global
-* some other location soon
+* [eu1.minesnf.com](http://eu1.minesnf.com/ui5) (Amsterdam) -> global
+* [blr1.minesnf.com](http://blr1.minesnf.com/ui5) (Bangalore)
+* [ru1.minesnf.com](http://ru1.minesnf.com/ui5) (Moscow)
 
 ## how can I support the project?
 
