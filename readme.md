@@ -48,20 +48,24 @@ Thus, gems crafted would define your character, and the recipes will be either d
 And after that maybe there will be some 'not so ugly' client created for that
 
 ## cool, how do I play this stuff?
+
 1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com/ui5) link or picking the server link from the list of servers
-2. You can wait until the Google play and Appstore apps are released 
-3. Or access open beta versions via the [iOS TestFlight](https://testflight.apple.com/join/wORyXZqw) or [Google Play Beta](https://play.google.com/apps/testing/com.minesnf.openui5)
+
+2. Download the stable release from [Google play](https://play.google.com/store/apps/details?id=com.minesnf.openui5) or App Store (still waiting for a review) apps are released 
+
+3. Or access beta versions via [Google Play Beta](https://play.google.com/apps/testing/com.minesnf.openui5) or [iOS TestFlight](https://testflight.apple.com/join/wORyXZqw) 
 
 ### and what if I still want to play multiplayer games with low latency and some friends? ###
 You can setup your own server and connect your mobile app to it. Here's a [wiki article](https://github.com/myakinkii/minesNF/wiki/Run-backend-locally) that explains how to run the backend locally or to [setup clean box](https://github.com/myakinkii/minesNF/wiki/Run-own-backend) (some old ubuntu in this example).
 
 ### how can I find somebody to play with or just give a feedback?
-join our [discord server](https://discord.gg/uWnVeZE)
+Join our [discord server](https://discord.gg/uWnVeZE)
 
 ### list of available servers
-* [eu1.minesnf.com](http://eu1.minesnf.com/ui5) (Amsterdam) -> global
-* [blr1.minesnf.com](http://blr1.minesnf.com/ui5) (Bangalore)
-* [ru1.minesnf.com](http://ru1.minesnf.com/ui5) (Moscow)
+* [eu1.minesnf.com](http://eu1.minesnf.com/ui5) (Amsterdam, NL) -> global
+* [tor1.minesnf.com](http://tor1.minesnf.com/ui5) (Toronto, CA)
+* [blr1.minesnf.com](http://blr1.minesnf.com/ui5) (Bangalore, IN)
+* [ru1.minesnf.com](http://ru1.minesnf.com/ui5) (Moscow, RU)
 
 ## how can I support the project?
 
