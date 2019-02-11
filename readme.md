@@ -1,5 +1,8 @@
 # minesnf - cooperative non-flagging minesweeper (with a twist)
 
+[![Google Play](./gplay.png)](https://play.google.com/store/apps/details?id=com.minesnf.openui5)
+[![App Store](./appstr.png)](https://itunes.apple.com/app/id1448244535)
+
 ## what is this all about?
 This stuff is a love letter to the original minesweeper game some of us used to play long time ago (and still continues to play) and some others are yet to discover
 
@@ -51,7 +54,7 @@ And after that maybe there will be some 'not so ugly' client created for that
 
 1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com/ui5) link or picking the server link from the list of servers
 
-2. Download the stable release from [Google play](https://play.google.com/store/apps/details?id=com.minesnf.openui5) or App Store (still waiting for a review) apps are released 
+2. Download the stable release from [Google play](https://play.google.com/store/apps/details?id=com.minesnf.openui5) or [App Store](https://itunes.apple.com/app/id1448244535)
 
 3. Or access beta versions via [Google Play Beta](https://play.google.com/apps/testing/com.minesnf.openui5) or [iOS TestFlight](https://testflight.apple.com/join/wORyXZqw) 
 
