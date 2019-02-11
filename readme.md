@@ -2,6 +2,7 @@
 
 [![Google Play](./gplay.png)](https://play.google.com/store/apps/details?id=com.minesnf.openui5)
 [![App Store](./appstr.png)](https://itunes.apple.com/app/id1448244535)
+[![Youtube Channel](./ytb.png)](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA)
 
 ## what is this all about?
 This stuff is a love letter to the original minesweeper game some of us used to play long time ago (and still continues to play) and some others are yet to discover
@@ -29,7 +30,7 @@ So, basically it is all about the digits which are resources to grind. And as yo
 
 To be honest, not only local mode provides you with resources to craft stuff, but also classical cooperative modes, so you can definitely give it a try if you feel like you cannot advance solo.
 
-To make this all more clear I hope to record some letsPlays and post it to youtube or somewhere.
+There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA) with some videos that some general describe or release-specific
 
 ### ok, so what's the plan?
 
