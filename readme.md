@@ -1,5 +1,6 @@
 # minesnf - cooperative non-flagging minesweeper (with a twist)
 
+[![Global server](./web.png)](http://global.minesnf.com/ui5)
 [![Google Play](./gplay.png)](https://play.google.com/store/apps/details?id=com.minesnf.openui5)
 [![App Store](./appstr.png)](https://itunes.apple.com/app/id1448244535)
 [![Youtube Channel](./ytb.png)](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA)
