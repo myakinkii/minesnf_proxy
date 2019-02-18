@@ -11,7 +11,9 @@ But this is also my manifest against pay-2-win games that treat players with a d
 
 Basically, *non-flagging* means you can not put flags to mark possible mines and instead can just left click/tap to open cells with no mines (if you are lucky) and  *cooperative* obviously means it is somehow can be played along with somebody else )
 
-####Classic flavour
+#### ***Current release: 1.2***
+
+#### Classic flavour
 Just non-flagging game with an option to play the same board with somebody in a real time
 - solo, coop, versus modes for online mode
     -  solo/rank - had impact in old version to rank players, now does pretty much nothing 
@@ -19,7 +21,7 @@ Just non-flagging game with an option to play the same board with somebody in a 
     -  versus - open the board and win if you scored more points opening cells
 - fastest possible experience with offline solo mode
 
-####Rpg flavour
+#### RPG flavour (what a twist)
 Introduces roguelike mechanics: mine -> fight -> craft -> repeat
 
 Descend the floors by solving the boards and fighting the bosses. Claim the loot (digits from boards) by ascending back to use it in crafting.
@@ -41,12 +43,12 @@ There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMC
 
 ### ok, so what's the plan?
 
-Plans for release 1.3 (start of March):
+#### Plans for release 1.3 (end of February 2019):
 - asynchronous fights with more balanced mechanics
 - rare gems and recipes that can be found deeper
 - pvp
 
-Further plans are to see whether somebody is going to play this stuff, and to maybe consider developing a bigger and nicer looking game out of this.
+#### Further plans are to see whether somebody is going to play this stuff, and to maybe consider developing a bigger and nicer looking game out of this.
 
 ## cool, how do I play this stuff?
 
