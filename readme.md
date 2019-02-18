@@ -7,49 +7,46 @@
 ## what is this all about?
 This stuff is a love letter to the original minesweeper game some of us used to play long time ago (and still continues to play) and some others are yet to discover
 
-But this is also my manifest against pay-2-win games that treat players with a drug dealer's attitude. And by that I mean this stuff is not going to provide you with some little fun for free and demand insane amount of money to continue getting fun later. It is going to be free as beer and provide player with game mechanics that woulc challenge and reward him for being skillful.
+But this is also my manifest against pay-2-win games that treat players with a drug dealer's attitude. And by that I mean this stuff is not going to provide you with some little fun for free and demand insane amount of money to continue getting fun later. It is going to be free as beer and provide player with game mechanics that would challenge and reward him for being skillful.
 
 Basically, *non-flagging* means you can not put flags to mark possible mines and instead can just left click/tap to open cells with no mines (if you are lucky) and  *cooperative* obviously means it is somehow can be played along with somebody else )
 
-So, thats why it has a backend written some very long time ago with nodejs and websockets (awful code, kids don't do that).
+####Classic flavour
+Just non-flagging game with an option to play the same board with somebody in a real time
+- solo, coop, versus modes for online mode
+    -  solo/rank - had impact in old version to rank players, now does pretty much nothing 
+    -  cooperative - just open the board together
+    -  versus - open the board and win if you scored more points opening cells
+- fastest possible experience with offline solo mode
 
-Currently it supports two 'classic' modes
-* **cooperative** - just open the board together
-* **versus** - open the board and win if you scored more points opening cells
+####Rpg flavour
+Introduces roguelike mechanics: mine -> fight -> craft -> repeat
 
-Unfortunately, for those who can play it sub100 (have the sum of small, medium and big board less than 100 seconds) ping can severely affect playability.
+Descend the floors by solving the boards and fighting the bosses. Claim the loot (digits from boards) by ascending back to use it in crafting.
 
-### and thats where the twist is
-There is a **local mode** which does not use backend at all, thus providing you with an option for having as fast response as possible.
+- solo or cooperative experience
+- endless mine floors to descend and gain loot upon ascending
+- increasing difficulty of mobs on floors
+- fight or flee or steal battle mechanics
+- four crafting recipes to uncover from wise bosses
+- common, rare, and epic gems to become stronger and change the battle outcome in your favour
+
+
+Both Classic and RPG flavours are supported in online and offline mode.
+But for those who can play sub100 ping can severely affect playability.
 
 For a ios/android app there is also a full offline mode supported, which means you can play while commutting through the underground or other places where network is unreachable.
-
-But apart from that this local mode actually adds some grind->fight->craft->repeat behaviour of some online rpgs we used to play.
-
-So, basically it is all about the digits which are resources to grind. And as you play, you get more of them. And then you spend it to craft gems. And gems you equip to boost your powers while fighting the bosses which prevent you from completing the board and getting the resources you mined (pun intended)
-
-To be honest, not only local mode provides you with resources to craft stuff, but also classical cooperative modes, so you can definitely give it a try if you feel like you cannot advance solo.
 
 There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA) with some videos that some general describe or release-specific
 
 ### ok, so what's the plan?
 
-Well, currently the plan is to release this cordova and openui5 based app with local rpg mode as a prototype and see what happens next.
+Plans for release 1.3 (start of March):
+- asynchronous fights with more balanced mechanics
+- rare gems and recipes that can be found deeper
+- pvp
 
-In the upcoming months I plan to move that stuff to the backend so that the actual minesweeper+morpg would come true
-
-The idea for the setting is to turn to mud or rogue-like rpgs where the party can descend to the endless mines and do pve (and somehow pvp) stuff.
-
-This way the rpg abstraction can be imagined as clearing out the traps (which are bombs) and obtaining mined resources (digits) some possible additional loot after defeating the floor boss
-
-As for the gem crafting, now there are 4 hardcoded gem recipes and effects they produce: 2s-> speed, 3s-> maxhp, 4s->pdef, and 5s->patk. 
-And this is expected to change as well by periodically resetting the equipment crafted and recipes for the new cycle (season)
-
-And of course by adding more effects like magic spells etc, so that game mechanics would cover typical rpg classess/roles like tank/dd/heal
-
-Thus, gems crafted would define your character, and the recipes will be either discovered by trial and error or by descending low enough to get it from the loot.
-
-And after that maybe there will be some 'not so ugly' client created for that
+Further plans are to see whether somebody is going to play this stuff, and to maybe consider developing a bigger and nicer looking game out of this.
 
 ## cool, how do I play this stuff?
 
@@ -73,9 +70,9 @@ Join our [discord server](https://discord.gg/uWnVeZE)
 
 ## how can I support the project?
 
-For now you can just spread the word if you love this game, or host your local server (if reasonable uptime can be guaranteed) so that it would be added to the list of official servers.
+Current goal is to try to attract the community and see what happens next 
 
-As I have some money to spend on developing this, the initial goal is to try to attract the community, because this is what brings a project into live
+So, for now you can just spread the word if you love this game, or host your local server (if reasonable uptime can be guaranteed) so that it would be added to the list of official servers.
 
 ## can I use the code?
 Yes, you can. 
