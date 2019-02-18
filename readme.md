@@ -3,6 +3,7 @@
 [![Google Play](./gplay.png)](https://play.google.com/store/apps/details?id=com.minesnf.openui5)
 [![App Store](./appstr.png)](https://itunes.apple.com/app/id1448244535)
 [![Youtube Channel](./ytb.png)](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA)
+[![Discord Channel](./dscrd.png)](https://discord.gg/uWnVeZE)
 
 ## what is this all about?
 This stuff is a love letter to the original minesweeper game some of us used to play long time ago (and still continues to play) and some others are yet to discover
