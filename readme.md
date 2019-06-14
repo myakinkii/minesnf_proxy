@@ -70,7 +70,7 @@ Join our [discord server](https://discord.gg/uWnVeZE)
 * [eu1.minesnf.com](http://eu1.minesnf.com/ui5) (Amsterdam, NL) -> global
 * [tor1.minesnf.com](http://tor1.minesnf.com/ui5) (Toronto, CA)
 * [blr1.minesnf.com](http://blr1.minesnf.com/ui5) (Bangalore, IN)
-* [ru1.minesnf.com](http://ru1.minesnf.com/ui5) (Moscow, RU)
+* [ru1.minesnf.com](http://ru1.minesnf.com) (Moscow, RU)
 
 ## how can I support the project?
 
