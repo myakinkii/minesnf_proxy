@@ -1,6 +1,6 @@
 # minesnf - cooperative non-flagging minesweeper (with a twist)
 
-[![Global server](./web.png)](http://global.minesnf.com/ui5)
+[![Global server](./web.png)](http://global.minesnf.com)
 [![Google Play](./gplay.png)](https://play.google.com/store/apps/details?id=com.minesnf.openui5)
 [![App Store](./appstr.png)](https://itunes.apple.com/app/id1448244535)
 [![Youtube Channel](./ytb.png)](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA)
@@ -13,7 +13,7 @@ But this is also my manifest against pay-2-win games that treat players with a d
 
 Basically, *non-flagging* means you can not put flags to mark possible mines and instead can just left click/tap to open cells with no mines (if you are lucky) and  *cooperative* obviously means it is somehow can be played along with somebody else )
 
-#### ***Current release: 1.2***
+#### ***Current release: 1.3***
 
 #### Classic flavour
 Just non-flagging game with an option to play the same board with somebody in a real time
@@ -31,7 +31,9 @@ Descend the floors by solving the boards and fighting the bosses. Claim the loot
 - solo or cooperative experience
 - endless mine floors to descend and gain loot upon ascending
 - increasing difficulty of mobs on floors
-- fight or flee or steal battle mechanics
+- action points based asynchronous battle mechanics
+- control the fight with buffs/debuffs
+- tank with "defend" and combo with "assist" in multiplayer
 - four crafting recipes to uncover from wise bosses
 - common, rare, and epic gems to become stronger and change the battle outcome in your favour
 
@@ -39,22 +41,21 @@ Descend the floors by solving the boards and fighting the bosses. Claim the loot
 Both Classic and RPG flavours are supported in online and offline mode.
 But for those who can play sub100 ping can severely affect playability.
 
-For a ios/android app there is also a full offline mode supported, which means you can play while commutting through the underground or other places where network is unreachable.
+For an ios/android app there is also a full offline mode supported, which means you can play while commutting through the underground or other places where network is unreachable.
 
-There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA) with some videos that some general describe or release-specific
+There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA) that describe some general or release-specific stuff
 
 ### ok, so what's the plan?
 
-#### Plans for release 1.3 (end of February 2019):
-- asynchronous fights with more balanced mechanics
-- rare gems and recipes that can be found deeper
-- pvp
+#### Plans around release 1.3 (summer '19):
+- try to promote the game to attract players
+- probably add/fix some minor stuff
 
 #### Further plans are to see whether somebody is going to play this stuff, and to maybe consider developing a bigger and nicer looking game out of this.
 
 ## cool, how do I play this stuff?
 
-1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com/ui5) link or picking the server link from the list of servers
+1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com) link or picking the server link from the list of servers
 
 2. Download the stable release from [Google play](https://play.google.com/store/apps/details?id=com.minesnf.openui5) or [App Store](https://itunes.apple.com/app/id1448244535)
 
@@ -67,9 +68,9 @@ You can setup your own server and connect your mobile app to it. Here's a [wiki 
 Join our [discord server](https://discord.gg/uWnVeZE)
 
 ### list of available servers
-* [eu1.minesnf.com](http://eu1.minesnf.com/ui5) (Amsterdam, NL) -> global
-* [tor1.minesnf.com](http://tor1.minesnf.com/ui5) (Toronto, CA)
-* [blr1.minesnf.com](http://blr1.minesnf.com/ui5) (Bangalore, IN)
+* [eu1.minesnf.com](http://eu1.minesnf.com) (Amsterdam, NL) -> global
+* [tor1.minesnf.com](http://tor1.minesnf.com) (Toronto, CA)
+* [blr1.minesnf.com](http://blr1.minesnf.com) (Bangalore, IN)
 * [ru1.minesnf.com](http://ru1.minesnf.com) (Moscow, RU)
 
 ## how can I support the project?
@@ -83,7 +84,7 @@ Yes, you can.
 
 The code is available under the MIT license at github.
 
-Check out the github repos for [legacy backend](https://github.com/myakinkii/minesNF) and current [openui5 based prototype](https://github.com/myakinkii/ui5client)
+Check out the github repos for [nodejs backend](https://github.com/myakinkii/minesNF) and [openui5 based client](https://github.com/myakinkii/ui5client)
 
 It is worth mentioning though, that the code quality is pretty low for any productive usage.
 
