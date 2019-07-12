@@ -18,9 +18,9 @@ Basically, *non-flagging* means you can not put flags to mark possible mines and
 #### Classic flavour
 Just non-flagging game with an option to play the same board with somebody in a real time
 - solo, coop, versus modes for online mode
-    -  solo/rank - had impact in old version to rank players, now does pretty much nothing 
-    -  cooperative - just open the board together
-    -  versus - open the board and win if you scored more points opening cells
+    -  solo - pure zen of non-flagging game
+    -  cooperative - open the same board together, bomb resets the board
+    -  versus - open the same board together, win if you scored more points opening cells, bomb freezes you and gives -8 points
 - fastest possible experience with offline solo mode
 
 #### RPG flavour (what a twist)
@@ -31,6 +31,7 @@ Descend the floors by solving the boards and fighting the bosses. Claim the loot
 - solo or cooperative experience
 - endless mine floors to descend and gain loot upon ascending
 - increasing difficulty of mobs on floors
+- fight or flee or try to steal battle
 - action points based asynchronous battle mechanics
 - control the fight with buffs/debuffs
 - tank with "defend" and combo with "assist" in multiplayer
@@ -55,14 +56,14 @@ There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMC
 
 ## cool, how do I play this stuff?
 
-1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com) link or picking the server link from the list of servers
+1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com) link or picking the server link below from the list of servers
 
 2. Download the stable release from [Google play](https://play.google.com/store/apps/details?id=com.minesnf.openui5) or [App Store](https://itunes.apple.com/app/id1448244535)
 
 3. Or access beta versions via [Google Play Beta](https://play.google.com/apps/testing/com.minesnf.openui5) or [iOS TestFlight](https://testflight.apple.com/join/wORyXZqw) 
 
 ### and what if I still want to play multiplayer games with low latency and some friends? ###
-You can setup your own server and connect your mobile app to it. Here's a [wiki article](https://github.com/myakinkii/minesNF/wiki/Run-backend-locally) that explains how to run the backend locally or to [setup clean box](https://github.com/myakinkii/minesNF/wiki/Run-own-backend) (some old ubuntu in this example).
+You can setup your own server and connect your mobile app to it. Here's an article about how to [run the local server](https://github.com/myakinkii/minesNF/wiki/Run-own-backend).
 
 ### how can I find somebody to play with or just give a feedback?
 Join our [discord server](https://discord.gg/uWnVeZE)
@@ -77,7 +78,8 @@ Join our [discord server](https://discord.gg/uWnVeZE)
 
 Current goal is to try to attract the community and see what happens next 
 
-So, for now you can just spread the word if you love this game, or host your local server (if reasonable uptime can be guaranteed) so that it would be added to the list of official servers.
+So, for now you can just spread the word if you love this game and/or write a review in the store.
+Or host your local server (if reasonable uptime can be guaranteed) so that it would be added to the list of official servers.
 
 ## can I use the code?
 Yes, you can. 
