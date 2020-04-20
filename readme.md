@@ -13,7 +13,7 @@ But this is also my manifest against pay-2-win games that treat players with a d
 
 Basically, *non-flagging* means you can not put flags to mark possible mines and instead can just left click/tap to open cells with no mines (if you are lucky) and  *cooperative* obviously means it is somehow can be played along with somebody else )
 
-#### ***Current release: 1.3***
+#### ***Latest release: 1.3 (mid2019)***
 
 #### Classic flavour
 Just non-flagging game with an option to play the same board with somebody in a real time
@@ -38,7 +38,6 @@ Descend the floors by solving the boards and fighting the bosses. Claim the loot
 - four crafting recipes to uncover from wise bosses
 - common, rare, and epic gems to become stronger and change the battle outcome in your favour
 
-
 Both Classic and RPG flavours are supported in online and offline mode.
 But for those who can play sub100 ping can severely affect playability.
 
@@ -46,40 +45,28 @@ For an ios/android app there is also a full offline mode supported, which means 
 
 There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMCnw7B_zA) that describe some general or release-specific stuff
 
-### ok, so what's the plan?
+### ok, so what's the status?
 
-#### Plans around release 1.3 (summer '19):
-- try to promote the game to attract players
-- probably add/fix some minor stuff
+Well, the thing didn't lift off, so as of 2020 no further development is planned and most of the servers are turned off.
 
-#### Further plans are to see whether somebody is going to play this stuff, and to maybe consider developing a bigger and nicer looking game out of this.
+The discord server is still up, but most probably empty.
 
-## cool, how do I play this stuff?
+In case you have somehow found this page and want to reach out to me, please find me on [twitter](https://twitter.com/myakinkii)
 
-1. You can play directyl by clicking [global.minesnf.com](http://global.minesnf.com) link or picking the server link below from the list of servers
+## can I still play this stuff?
 
-2. Download the stable release from [Google play](https://play.google.com/store/apps/details?id=com.minesnf.openui5) or [App Store](https://itunes.apple.com/app/id1448244535)
+1. You can play web version directly by clicking [global.minesnf.com](http://global.minesnf.com) link or picking the server link below from the list of servers
 
-3. Or access beta versions via [Google Play Beta](https://play.google.com/apps/testing/com.minesnf.openui5) or [iOS TestFlight](https://testflight.apple.com/join/wORyXZqw) 
+2. Or download the stable release from [Google play](https://play.google.com/store/apps/details?id=com.minesnf.openui5) or [App Store](https://itunes.apple.com/app/id1448244535)
+
+### list of (previously) available servers
+* [eu1.minesnf.com](http://eu1.minesnf.com) (Amsterdam, NL) -> turned off
+* [tor1.minesnf.com](http://tor1.minesnf.com) (Toronto, CA) -> turned off
+* [blr1.minesnf.com](http://blr1.minesnf.com) (Bangalore, IN) -> turned off
+* [ru1.minesnf.com](http://ru1.minesnf.com) (Moscow, RU) -> global
 
 ### and what if I still want to play multiplayer games with low latency and some friends? ###
 You can setup your own server and connect your mobile app to it. Here's an article about how to [run the local server](https://github.com/myakinkii/minesNF/wiki/Run-own-backend).
-
-### how can I find somebody to play with or just give a feedback?
-Join our [discord server](https://discord.gg/uWnVeZE)
-
-### list of available servers
-* [eu1.minesnf.com](http://eu1.minesnf.com) (Amsterdam, NL) -> global
-* [tor1.minesnf.com](http://tor1.minesnf.com) (Toronto, CA)
-* [blr1.minesnf.com](http://blr1.minesnf.com) (Bangalore, IN)
-* [ru1.minesnf.com](http://ru1.minesnf.com) (Moscow, RU)
-
-## how can I support the project?
-
-Current goal is to try to attract the community and see what happens next 
-
-So, for now you can just spread the word if you love this game and/or write a review in the store.
-Or host your local server (if reasonable uptime can be guaranteed) so that it would be added to the list of official servers.
 
 ## can I use the code?
 Yes, you can. 
