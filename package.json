@@ -6,6 +6,6 @@
   "author": "Alex Myakinkii",
   "dependencies": {
     "http-proxy": "^1.17.0",
-    "showdown": "^1.9.0"
+    "showdown": "^1.9.1"
   }
 }
