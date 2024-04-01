@@ -13,7 +13,7 @@ But this is also my manifest against pay-2-win games that treat players with a d
 
 Basically, *non-flagging* means you can not put flags to mark possible mines and instead can just left click/tap to open cells with no mines (if you are lucky) and  *cooperative* obviously means it is somehow can be played along with somebody else )
 
-#### ***Latest release: 1.3 (mid2019)***
+#### ***Latest release: 1.4 (apr2024)***
 
 #### Classic flavour
 Just non-flagging game with an option to play the same board with somebody in a real time
@@ -49,7 +49,9 @@ There is our [youtube channel](https://www.youtube.com/channel/UCEvqfPKGtfqfyeMC
 
 Well, the thing didn't lift off, so as of 2020 no further development is planned and most of the servers are turned off.
 
-The discord server is still up, but most probably empty.
+The discord server is still up, but most probably empty. - or is it?
+
+**UPD 2024**: This thing is kinda alive (I play it at least), and I switched mobile app to [capacitorjs](https://capacitorjs.com) to put it back to stores. Backend is runnable with node18.
 
 In case you have somehow found this page and want to reach out to me, please find me on [twitter](https://twitter.com/myakinkii)
 
